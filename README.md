@@ -27,12 +27,11 @@ Modes differ by the objective function, that we are trying to minimize during gr
   - Section Conclusion<br><br>
 - Advantages and disadvantages of CatBoost algorithm<br><br>
 - Comparing CatBoost to other boosting algorithms
-  - Installing CatBoost
+- Installing CatBoost
   - Restriction & Requirements
-  - Instaling<br><br>
+  - Installing<br><br>
 - Using CatBoost
   - Titanic dataest
-  - Catboost Model
   - Kaggle score
 ---
 
@@ -47,3 +46,16 @@ Modes differ by the objective function, that we are trying to minimize during gr
   - H20
   - LightGBM
 - The main difference between them is the tree structure, feature engineering, and working with sparse data.
+
+# What is CatBoost?
+
+- CatBoost is an algorithm for gradient boosting on decision trees. It is developed by Yandex, researchers and engineers, and is used for:
+Search.
+  - Recommendation systems.
+  - Personal assistant.
+  - Self-driving cars.
+  - Weather prediction.
+  - And many other tasks.
+
+It is in open-source and can be used by anyone, "CatBoost" name came from two words 'Category' and 'Boosting'.
+
